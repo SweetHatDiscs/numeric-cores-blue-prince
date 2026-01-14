@@ -15,5 +15,5 @@ Python 3.10+
 
 ##Usage
 python NumericCores.py
-or
+OR
 python ReverseNumericCoreFinder.py
